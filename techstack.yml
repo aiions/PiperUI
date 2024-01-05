@@ -2,7 +2,7 @@ repo_name: aiions/PiperUI
 report_id: 2b22633e816498e6d22cb80fb7d1bd4c
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-31T07:11:34+00:00'
+timestamp: '2024-01-05T08:13:19+00:00'
 requested_by: natlamir
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/aiions/PiperUI
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -28,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/aiions/PiperUI/blob/master/PiperUI/PiperUI.csproj
   detection_source: PiperUI/PiperUI.csproj
   last_updated_by: natlamir007
   last_updated_on: 2023-11-13 18:09:48.000000000 Z
@@ -69,6 +71,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/aiions/PiperUI
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -78,6 +81,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/aiions/PiperUI/blob/master/PiperUI/PiperUI.csproj
   detection_source: PiperUI/PiperUI.csproj
   last_updated_by: natlamir007
   last_updated_on: 2023-11-13 18:09:48.000000000 Z
@@ -90,6 +94,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/aiions/PiperUI/blob/master/PiperUI.sln
   detection_source: PiperUI.sln
   last_updated_by: natlamir007
   last_updated_on: 2023-11-13 18:09:48.000000000 Z
